@@ -2,7 +2,7 @@
 
 Instal All dependencies in this project
 ### `npm install`
-### 'npm install firebase`
+### `npm install firebase`
 
 Then run it
 ### `npm run dev`
