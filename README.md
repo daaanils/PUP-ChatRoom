@@ -1,13 +1,10 @@
 
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-
 Instal All dependencies in this project
+### `npm install`
+### 'npm install firebase`
 
+Then run it
 ### `npm run dev`
 
 
